@@ -8,6 +8,9 @@ I bridge the gap between complex biological systems and computational insights t
 - 📖 Scientific discussions and knowledge exchange
 
 ---
+<p align="center">
+  <img src="https://github.com/hemant-goyal/hemant-goyal/blob/main/6E0A4FF445816673.png" width="600" title="AF3 Peptide Interaction">
+</p>
 
 <div align="center">
 

@@ -1,34 +1,9 @@
 # 👋 Hi, I'm Hemant Goyal
+I'm a biophysicist and researcher from India 🇮🇳 based at PGIMER, Chandigarh.
 
-**Biophysicist | Bioinformatician | Researcher at PGIMER, Chandigarh**
+I bridge the gap between complex biological systems and computational insights through research in genomics, structural biology, and AMR pathogen diagnostics. I’ve worked on a range of projects, including developing therapeutic peptides as bacterial infections and neural disorders, developing ONT/WGS NGS panels for profiling superbugs, and conducting 16S metagenomics of the human microbiome.
 
-I bridge the gap between complex biological systems and computational insights through cutting-edge research in genomics, structural biology, and amr pathogen diagnostics. My work translates molecular mechanisms into actionable health solutions.
-
----
-
-## 🔬 Research Projects
-
-### Pathogen Diagnostics
-Developing Oxford Nanopore Technologies (ONT) NGS panels for rapid, cost-effective detection of STI pathogens, enabling faster clinical decision-making.
-
-### M. leprae Genomics
-Utilizing Whole Genome Sequencing (Illumina NovaSeq) to map drug resistance mutations and determine strain lineages across India—advancing our understanding of leprosy epidemiology and treatment strategies.
-
-### Metagenomics & Oral Microbiome
-Investigated oral dysbiosis in smokeless tobacco users through 16S rRNA sequencing and characterizing nicotine-degrading bacterial communities—bridging microbiology with public health.
-
-### Therapeutic Peptides
-Investigated the mechanism of action of synthetic peptides (DP1) against *Staphylococcus aureus* using integrated biophysical, molecular, and in-vivo murine models.
-Investigated the binding interactions of resveratrol on Aβ 42 peptides and fibrils to understand its impact on Alzheimer's disease progression using CD spectroscopy, Molecular Docking, and Molecular Dynamics for structural analysis. Integerating them with in-vitro molecular assays.
-
----
-
-## 🎓 Education & Credentials
-
-- **M.Sc. Biophysics** – Panjab University, Chandigarh
-- **Research Fellow** – Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh
-
----
+I'm passionate about translating molecular mechanisms into actionable clinical solutions. My expertise spans from MD simulations n docking to spectroscopy n cellular imaging and in-vivo murine models. When I'm not in the lab, I'm likely gaming rpg or driving my through the mountains.
 
 ## 📫 Let's Connect
 

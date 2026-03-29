@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hemant Goyal
-I'm a biophysicist from India 🇮🇳 based at PGIMER, Chandigarh.
-I try to bridge the gap between complex biological systems and computational insights through research in multiomics, structural biology, and AMR pathogen diagnostics. I’ve worked on a range of projects, including developing therapeutic peptides as bacterial infections and neural disorders, developing ONT/WGS NGS panels for profiling superbugs, and conducting 16S metagenomics of the human microbiome. My expertise spans from MD simulations n docking to spectroscopy n cellular imaging and in-vivo murine models. When I'm not in the lab, I'm likely gaming rpg or driving through the mountains.
+I’m a biophysicist based at India 🇮🇳 working at the intersection of complex biological systems and computational insights. My research focuses on multiomics, structural biology, and antimicrobial resistance (AMR) diagnostics, with an emphasis on translating data into meaningful biological understanding.
+My skill set spans both computational and experimental domains ranging from molecular dynamics simulations, docking and multiomics to spectroscopy, cellular imaging, and in vivo murine models allowing me to approach biological questions from a truly integrative perspective.
+When I'm not in the lab, I'm building something exciting for integrative analysis or likely playing rpg or driving through the mountains.
 
 **Reach out for:**
 - 🤝 Collaborative research projects

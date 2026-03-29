@@ -9,7 +9,7 @@ I bridge the gap between complex biological systems and computational insights t
 
 ---
 <p align="center">
-  <img src="https://github.com/hemant-goyal/hemant-goyal/blob/main/6E0A4FF445816673.png" width="100">
+  <img src="https://github.com/hemant-goyal/hemant-goyal/blob/main/6E0A4FF445816673.png" width="150">
 </p>
 
 <div align="center">

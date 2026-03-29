@@ -11,8 +11,6 @@ I try to bridge the gap between complex biological systems and computational ins
   <img src="https://github.com/hemant-goyal/hemant-goyal/blob/main/6E0A4FF445816673.png" width="150">
 </p>
 <div align="center">
-
 **Made with ❤️**  
 *Advancing biological discovery through computation and experimentation*
-
 </div>

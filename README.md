@@ -11,7 +11,7 @@ I bridge the gap between complex biological systems and computational insights t
 
 <div align="center">
 
-**Made with ❤️ by Hemant Goyal**  
+**Made with ❤️**  
 *Advancing biological discovery through computation and experimentation*
 
 </div>

@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hemant Goyal
-I’m a biophysicist based at India 🇮🇳 working at the intersection of complex biological systems and computational insights. My research focuses on multiomics, structural biology, and antimicrobial resistance (AMR) diagnostics, with an emphasis on translating data into meaningful biological understanding.
+A biophysicist based at India 🇮🇳 working at the intersection of complex biological systems and computational insights. My research focuses on multiomics, structural biology, and antimicrobial resistance (AMR) diagnostics, with an emphasis on translating data into meaningful biological understanding.
 My skill set spans both computational and experimental domains ranging from molecular dynamics simulations, docking and multiomics to spectroscopy, cellular imaging, and in vivo murine models allowing me to approach biological questions from a truly integrative perspective.
 When I'm not in the lab, I'm building something exciting for integrative analysis or likely playing rpg or driving through the mountains.
 
